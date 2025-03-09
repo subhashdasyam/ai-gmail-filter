@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gmail Unnecessary Email Filter
 
 This project provides a modular Python application that connects to your Gmail account, analyzes your emails using a local Ollama LLM instance, and moves unnecessary emails to a separate label.
@@ -130,4 +129,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 =======
 # ai-gmail-filter
 Filter and move un-necessary emails to label potentially un-necessary label  
->>>>>>> 6fd327ad51ba443059b183bc764b331a90f663c8
