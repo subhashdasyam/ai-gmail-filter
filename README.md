@@ -126,6 +126,4 @@ You can customize the behavior of the application by editing the `.env` file:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-=======
-# ai-gmail-filter
-Filter and move un-necessary emails to label potentially un-necessary label  
+
