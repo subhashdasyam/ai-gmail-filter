@@ -11,27 +11,7 @@ This project provides a modular Python application that connects to your Gmail a
 - **Detailed Logging**: Comprehensive logging for monitoring and debugging
 - **Result Tracking**: Saves processing results for future reference
 
-## Project Structure
 
-```
-gmail_filter/
-├── main.py                 # Entry point
-├── config.py               # Configuration settings
-├── README.md               # Project documentation
-├── requirements.txt        # Dependencies
-├── modules/
-│   ├── gmail/
-│   │   ├── auth.py         # Gmail authentication
-│   │   ├── email_ops.py    # Email operations
-│   │   └── label_ops.py    # Label operations
-│   └── llm/
-│       ├── ollama.py       # Ollama integration
-│       └── analyzer.py     # Email analysis logic
-└── utils/
-    ├── email_parser.py     # Email content parsing
-    ├── logging_utils.py    # Logging setup
-    └── file_utils.py       # File operations
-```
 
 ## Prerequisites
 
@@ -44,8 +24,8 @@ gmail_filter/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/gmail-filter.git
-   cd gmail-filter
+   git clone https://github.com/subhashdasyam/ai-gmail-filter.git
+   cd ai-gmail-filter
    ```
 
 2. Install the required dependencies:
